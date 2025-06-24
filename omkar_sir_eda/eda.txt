@@ -1,0 +1,48 @@
+____________________________________________________________________
+for doing any eda in data science,we have to installl some packages
+____________________________________________________________________
+    pandas-->dataframe analysis
+    numpy-->numerical python/nuumber python
+    matplotlib-->for ploting
+    seaborn-->for ploting
+    plotly-->for ploting
+    bokhe-->for ploting
+____________________________________________________________________
+for doing any machine learning,we have to install only one package
+____________________________________________________________________
+    scikit learn:sklearn
+____________________________________________________________________
+for doing any deep learning,we have to install some packages
+____________________________________________________________________
+    tenserflow
+    keras
+    pytorch
+    c.v(computer visison)
+__________________________________________________________________________
+for doing any natural language processing,we have to install some packages
+___________________________________________________________________________
+    NLTK
+    Scipy
+___________________________________________________________________________
+for geneartive-ai packages,we have to install some packages
+___________________________________________________________________________
+    chatgpt:openai
+    makersuite:google gen ai
+    amazonq:amazonq gen ai
+___________________________________________________________________________
+HuggingFace face transformer
+___________________________________________________________________________
+    Transformers
+___________________________________________________________________________
+other some packages
+___________________________________________________________________________
+    random
+    math
+    os 
+    sys
+    time
+__________________________________________________________________________
+    Azure Ai
+    Google Vertex Ai
+    Aws Sage maker
+__________________________________________________________________________
