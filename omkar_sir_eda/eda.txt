@@ -1,5 +1,5 @@
 ____________________________________________________________________
-for doing any eda in data science,we have to install some packages
+for doing any eda in data science,we have to install some packages for this
 ____________________________________________________________________
     pandas-->dataframe analysis
     numpy-->numerical python/nuumber python
